@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @bradygov
-- 👀 I’m interested in software development, particularly Python, SQL, and web technologies.
--  🌱 I’m expanding my Python skills to enhance my programming capabilities.
-- 💞️ I’m looking to collaborate on python, SQL, and web related projects
+- 👀 I’m interested in software development, particularly SQL, C#, and web development.
+-  🌱 I’m expanding my C# skills to enhance my programming capabilities.
+- 💞️ I’m looking to collaborate on projects in order to gain more knowledge on all things programming!
 - 📫 You can contact me on LinkdIn - https://www.linkedin.com/in/brady-govender/
 
 <!---
